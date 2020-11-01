@@ -1,0 +1,10 @@
+
+Data from this project was downloaded from the openstreetmap project using the Overpass API
+
+https://www.openstreetmap.org/export#map=13/42.3362/-83.0336
+
+Location: Detroit MI,USA and Windsor, Ontario in Canada
+
+<bounds minlat="42.3097000" minlon="-83.1011000" maxlat="42.3626000" maxlon="-82.9663000"/>
+
+I chose this location because it is near me and I am familiar with the the names and features. I felt this would make it easier for me to find the inconsistancies in the data set.
