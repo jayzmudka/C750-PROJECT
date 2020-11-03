@@ -1,1 +1,2 @@
-# C750-PROJECT
+# Udacity data wrangling project
+
