@@ -1,0 +1,10 @@
+websites I used for reference
+
+https://wiki.openstreetmap.org/wiki/Elements
+https://www.tutorialspoint.com/how-to-count-the-number-of-documents-in-a-mongodb-collection
+https://docs.mongodb.com/manual/reference/command/dbStats/#dbStats.dataSize
+https://docs.mongodb.com/manual/core/2dsphere/
+https://docs.mongodb.com/manual/reference/operator/aggregation/
+https://www.geeksforgeeks.org/drop-collection-if-already-exists-in-mongodb-using-python/
+https://docs.python.org/2/library/xml.etree.elementtree.html
+https://docs.python.org/3/library/json.html
