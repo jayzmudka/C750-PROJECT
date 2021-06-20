@@ -1,4 +1,4 @@
-# Data wrangling project
+# Data Wrangling and MongoDB project
 
 I used Python 2.7 for this project and the following libraries:
 
